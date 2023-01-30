@@ -1,0 +1,3 @@
+recursive-include AlzScPred/Model *
+include README.md
+include LICENSE.txt
