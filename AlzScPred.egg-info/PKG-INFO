@@ -1,3 +1,20 @@
+Metadata-Version: 2.1
+Name: AlzScPred
+Version: 0.0.1
+Summary: A python based tool for prediction patient diagnosis i.e. (Alzheimer or Healthy) from single cell data.
+Author: Aman Srivastava and Akanksha Jarwal
+Author-email: <aman20333@iiitd.ac.in>
+License: UNKNOWN
+Keywords: python,Alzheimers,Diagnosis,Single cell,Genomics
+Platform: UNKNOWN
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: Unix
+Classifier: Operating System :: MacOS :: MacOS X
+Classifier: Operating System :: Microsoft :: Windows
+Description-Content-Type: text/markdown
+
 
 # AlzScPred :- A Tool for Identification of Alzheimer's from Single Cell Genome using Deep Learning
 
@@ -73,3 +90,5 @@ The output of the code can be viewed in your python output terminal. Example can
 - Anjali Dhall.
 - Sumeet Patiyal.
 - [Prof. G.P.S. Raghava](https://www.github.com/octokatherine)
+
+
