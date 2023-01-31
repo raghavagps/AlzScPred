@@ -15,7 +15,7 @@ An excellent feature selection method called mRMR (Minimum Redundancy Maximum Re
 Followed by Incremental Feature Selection (IFS) which led to identification of 35 conserved genes which act as promising biomarkers
 in classification and prediction of Normal and Diseased patients.
 
-Please read/cite the content about the AlzScPredict for complete information including algorithm behind the approach.
+Please read/cite the content about the AlzScPred for complete information including algorithm behind the approach.
 ## Installation
 
 Install my-project with pip
