@@ -16,6 +16,9 @@ Followed by Incremental Feature Selection (IFS) which led to identification of 3
 in classification and prediction of Normal and Diseased patients.
 
 Please read/cite the content about the AlzScPred for complete information including algorithm behind the approach.
+## Reference
+Srivastava et al. Prediction of Alzheimer’s Disease from Single Cell Transcriptomics Using Deep Learning. <a href="https://europepmc.org/article/PPR/PPR690064"><font color=blue>bioRxiv; 2023. DOI: 10.1101/2023.07.07.548171</font></a>.
+
 ## Installation
 
 Install my-project with pip
