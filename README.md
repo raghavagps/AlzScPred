@@ -18,7 +18,8 @@ in classification and prediction of Normal and Diseased patients.
 Please read/cite the content about the AlzScPred for complete information including algorithm behind the approach.
 ## Reference
 Srivastava et al. Prediction of Alzheimer’s Disease from Single Cell Transcriptomics Using Deep Learning. <a href="https://europepmc.org/article/PPR/PPR690064"><font color=blue>bioRxiv; 2023. DOI: 10.1101/2023.07.07.548171</font></a>.
-
+## Zenodo
+https://doi.org/10.5281/zenodo.19853135
 ## Installation
 
 Install my-project with pip
